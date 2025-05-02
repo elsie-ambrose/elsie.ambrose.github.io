@@ -1,6 +1,6 @@
-# ElsieAmbrose.GitHub.io
-# H1
-## H2
+# ElizabethAmbrose.GitHub.io
+# Elizabeth Ambrose Artistic Portfolio
+## *Websit In process*
 ### H3
 #### H4
 ##### H5
